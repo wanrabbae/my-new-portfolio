@@ -1,0 +1,284 @@
+{
+  "personal": {
+    "name": "Akhmad Alwan Rabbani",
+    "title": {
+      "id": "Full Stack Developer",
+      "en": "Full Stack Developer"
+    },
+    "tagline": {
+      "id": "Membangun aplikasi web & mobile yang scalable dengan pengalaman lebih dari 4 tahun.",
+      "en": "Building scalable web & mobile applications with 4+ years of hands-on experience."
+    },
+    "about": {
+      "id": "Saya adalah seorang Full Stack Developer dengan pengalaman lebih dari 4 tahun dalam merancang, membangun, dan memelihara aplikasi web dan mobile yang responsif. Saya memiliki rekam jejak yang terbukti dalam pengembangan backend dan frontend, integrasi API, serta optimasi performa sistem untuk berbagai bisnis dan klien. Saya bersemangat dalam menulis kode yang bersih dan scalable serta memecahkan masalah kompleks dengan solusi teknis yang efektif.",
+      "en": "I'm a Full Stack Developer with over 4 years of hands-on experience in designing, building, and maintaining responsive web and mobile applications. I have a proven track record in backend and frontend development, API integration, and optimizing system performance for businesses and clients. I'm passionate about writing clean, scalable code and solving complex problems with effective technical solutions."
+    },
+    "location": "Bandung, Indonesia",
+    "email": "alwanrabbae@gmail.com",
+    "phone": "+628995247131",
+    "photo": "/images/photo.jpg",
+    "social": {
+      "github": "https://github.com/wanrabbae",
+      "linkedin": "https://www.linkedin.com/in/akhmad-alwan-rabbani-b75467205/",
+      "playstore": "https://play.google.com/store/apps/developer?id=wanrabbae"
+    }
+  },
+  "skills": {
+    "frontend": ["React.js", "Next.js", "Vue.js", "HTML & CSS", "JavaScript", "TypeScript", "Flutter"],
+    "backend": ["Node.js", "Express.js", "Hapi.js", "Nest.js", "PHP", "Laravel", "Python", "Java & Kotlin"],
+    "database": ["MySQL", "PostgreSQL", "MongoDB"],
+    "cloud": ["Amazon Web Services (AWS)", "Google Cloud Platform (GCP)", "Firebase"],
+    "tools": ["Git & GitHub", "REST API", "WhatsApp API", "Payment Gateway Integration"]
+  },
+  "experience": [
+    {
+      "company": "CV APP SOLUTIVE",
+      "location": "Bandung, Indonesia",
+      "role": {
+        "id": "Back End Developer",
+        "en": "Back End Developer"
+      },
+      "period": "September 2024 – December 2025",
+      "current": true,
+      "description": {
+        "id": [
+          "Mengoptimalkan dan memelihara beberapa API yang sudah ada untuk meningkatkan performa dan stabilitas.",
+          "Merancang dan mengembangkan fitur backend baru untuk aplikasi klien.",
+          "Mengintegrasikan platform pembayaran pihak ketiga untuk alur transaksi yang lancar."
+        ],
+        "en": [
+          "Optimized and maintained multiple existing APIs to improve performance and stability.",
+          "Designed and developed new backend features for client applications.",
+          "Integrated third-party payment platforms, ensuring seamless transaction flows within the app."
+        ]
+      }
+    },
+    {
+      "company": "PT SINERGI MITRA UNIVERSAL",
+      "location": "Bandung, Indonesia",
+      "role": {
+        "id": "Full Stack Developer",
+        "en": "Full Stack Developer"
+      },
+      "period": "January 2024 – December 2024",
+      "current": false,
+      "description": {
+        "id": [
+          "Memelihara dan mengoptimalkan beberapa aplikasi berbasis web yang sudah ada.",
+          "Membangun versi mobile dari platform web yang sudah ada untuk meningkatkan aksesibilitas pengguna."
+        ],
+        "en": [
+          "Maintained and optimized several existing web-based applications.",
+          "Built mobile-based versions of existing web platforms to improve user accessibility and reach."
+        ]
+      }
+    },
+    {
+      "company": "PT JAVA GENIUS ALL TECHNOLOGY",
+      "location": "Cirebon, Indonesia",
+      "role": {
+        "id": "Full Stack Developer",
+        "en": "Full Stack Developer"
+      },
+      "period": "March 2022 – January 2023",
+      "current": false,
+      "description": {
+        "id": [
+          "Berkolaborasi dengan tim pengembang inti untuk mengerjakan proyek klien nyata.",
+          "Meningkatkan dan menjaga performa sistem yang sudah ada."
+        ],
+        "en": [
+          "Collaborated with core development teams to deliver real-world client projects.",
+          "Enhanced and sustained performance across multiple existing systems."
+        ]
+      }
+    },
+    {
+      "company": "PT ELnCo CONSULTING",
+      "location": "Cirebon, Indonesia",
+      "role": {
+        "id": "Back End Developer",
+        "en": "Back End Developer"
+      },
+      "period": "March 2022 – June 2023",
+      "current": false,
+      "description": {
+        "id": [
+          "Mengembangkan, mendeploy, dan memelihara infrastruktur backend untuk 'Maripesan', platform reservasi restoran.",
+          "Memastikan pemrosesan data yang lancar dan keandalan API di seluruh layanan."
+        ],
+        "en": [
+          "Developed, deployed, and maintained backend infrastructure for 'Maripesan', a restaurant reservation platform.",
+          "Ensured smooth data processing and API reliability across services."
+        ]
+      }
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universitas Pendidikan Indonesia",
+      "degree": {
+        "id": "Sarjana Rekayasa Perangkat Lunak",
+        "en": "Bachelor of Software Engineering"
+      },
+      "period": "2023 – Present",
+      "current": true
+    },
+    {
+      "institution": "SMK INFORMATIKA AL-IRSYAD AL-ISLMIYYAH",
+      "degree": {
+        "id": "Rekayasa Perangkat Lunak",
+        "en": "Software Engineering"
+      },
+      "period": "2020 – 2023",
+      "current": false
+    }
+  ],
+  "projects": [
+    {
+      "id": "hris",
+      "title": "Human Resource Integrated System",
+      "category": "web",
+      "description": {
+        "id": "Sebuah web app (HRIS) yang bertujuan untuk meningkatkan kualitas kinerja karyawan serta efisiensi untuk pengambilan keputusan dalam sebuah perusahaan dan segala pengelolaan sumber daya perusahaan.",
+        "en": "A web app (HRIS) designed to improve employee performance quality and efficiency for decision-making within a company and all company resource management."
+      },
+      "tech": ["React.js", "Node.js", "Express.js", "MySQL"],
+      "github": "https://github.com/wanrabbae/Human-Resource-Integrated-System",
+      "demo": null,
+      "featured": true
+    },
+    {
+      "id": "maripesan",
+      "title": "Maripesan Mobile App",
+      "category": "mobile",
+      "description": {
+        "id": "Aplikasi reservasi restoran lokal yang memungkinkan pelanggan melakukan reservasi dan pemesanan makanan dari satu aplikasi.",
+        "en": "A local restaurant reservation app that allows customers to make reservations and order food from a single application."
+      },
+      "tech": ["Node.js", "Express.js", "MySQL", "Flutter", "Firebase"],
+      "github": "https://github.com/wanrabbae/miroservice-maripesan-app",
+      "demo": "https://play.google.com/store/apps/details?id=id.maripesan.customer",
+      "featured": true
+    },
+    {
+      "id": "elgadai",
+      "title": "EL Gadai",
+      "category": "web",
+      "description": {
+        "id": "Web app untuk mengelola pendataan barang gadai yang terintegrasi dengan WhatsApp, dengan fitur nota transaksi, perpanjang, top up, tebus, cicil, proses lelang, laporan transaksi, dan notifikasi WhatsApp.",
+        "en": "A web app for managing pawn item data integrated with WhatsApp, featuring transaction notes, extend, top up, redeem, installment, auction process, transaction reports, and WhatsApp notifications."
+      },
+      "tech": ["PHP", "Laravel"],
+      "github": "https://github.com/wanrabbae/gadai-web-app",
+      "demo": "https://sistem.egadai.co.id/",
+      "featured": true
+    },
+    {
+      "id": "hora",
+      "title": "Hora – Online Presence System",
+      "category": "mobile",
+      "description": {
+        "id": "Aplikasi absensi online berbasis mobile dengan fitur absen foto selfie, deteksi lokasi, timer durasi kerja, izin dan sakit, user profile management, dan undang teman.",
+        "en": "A mobile-based online attendance app with selfie photo check-in, location detection, work duration timer, leave management, user profile management, and invite friends."
+      },
+      "tech": ["Flutter"],
+      "github": "https://github.com/wanrabbae/absensi-app",
+      "demo": "https://play.google.com/store/apps/details?id=com.hora.app",
+      "featured": false
+    },
+    {
+      "id": "aggiku",
+      "title": "Aggiku – Web Online Insurance",
+      "category": "web",
+      "description": {
+        "id": "Platform asuransi daring untuk Arthagraha General Insurance dengan login aman, dukungan multibahasa, daftar produk dinamis, dan akses mudah ke informasi dan layanan polis.",
+        "en": "An online insurance platform for Arthagraha General Insurance with secure login, multilingual support, dynamic product listings, and easy access to policy information and services."
+      },
+      "tech": ["Bootstrap", "PHP", "Laravel", "MySQL"],
+      "github": "https://github.com/wanrabbae/asuransi_app_aggi",
+      "demo": "https://www.aggi.co.id/",
+      "featured": false
+    },
+    {
+      "id": "tiket-kereta",
+      "title": "Aplikasi Pemesanan Tiket Kereta",
+      "category": "mobile",
+      "description": {
+        "id": "Aplikasi tiket kereta yang memungkinkan pengguna memesan tiket kereta kapanpun dan dimanapun tanpa harus datang langsung ke loket stasiun.",
+        "en": "A train ticket app that allows users to book train tickets anytime and anywhere without having to go directly to the station ticket booth."
+      },
+      "tech": ["Flutter", "Laravel", "MySQL"],
+      "github": "https://github.com/wanrabbae/Tiket_kereta",
+      "demo": null,
+      "featured": false
+    },
+    {
+      "id": "elearning",
+      "title": "E-Learning Mobile App",
+      "category": "mobile",
+      "description": {
+        "id": "Aplikasi mobile yang memudahkan pihak sekolah dalam pemberian materi maupun penugasan bagi siswa-siswi.",
+        "en": "A mobile application that makes it easier for schools to deliver learning materials and assignments to students."
+      },
+      "tech": ["Flutter", "Node.js", "MySQL"],
+      "github": "https://github.com/wanrabbae/E-learning-frontend",
+      "demo": null,
+      "featured": false
+    },
+    {
+      "id": "sim-caleg",
+      "title": "Website SIM Caleg",
+      "category": "web",
+      "description": {
+        "id": "Sistem untuk mengelola data caleg seperti pengelolaan data suara, survey, politik, saksi, berita, team relawan, dan finance. Bersifat multi-client untuk beberapa Caleg dari berbagai Partai.",
+        "en": "A system for managing legislative candidate data including vote data management, surveys, political data, witnesses, news, volunteer teams, and finance. Multi-client for multiple candidates from various parties."
+      },
+      "tech": ["PHP", "jQuery", "Laravel", "MySQL"],
+      "github": "https://github.com/wanrabbae/caleg-2024-admin-web",
+      "demo": null,
+      "featured": false
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Back End Development and APIs",
+      "issuer": "freeCodeCamp",
+      "date": "October 2021",
+      "description": {
+        "id": "Developer Certification mewakili sekitar 300 jam coursework.",
+        "en": "Developer Certification representing approximately 300 hours of coursework."
+      }
+    },
+    {
+      "title": "JavaScript (Basic)",
+      "issuer": "HackerRank",
+      "date": "July 2023"
+    },
+    {
+      "title": "Path Pengembangan Web (Node.js)",
+      "issuer": "Progate",
+      "date": "June 2021"
+    },
+    {
+      "title": "Belajar Membuat Aplikasi Back-End untuk Pemula",
+      "issuer": "Dicoding",
+      "date": "July 2021"
+    },
+    {
+      "title": "Kursus Node.js",
+      "issuer": "Progate",
+      "date": "April 2021"
+    },
+    {
+      "title": "Kursus SQL",
+      "issuer": "Progate",
+      "date": "November 2022"
+    },
+    {
+      "title": "Belajar Dasar Pemrograman Web",
+      "issuer": "Dicoding",
+      "date": "March 2021"
+    }
+  ]
+}

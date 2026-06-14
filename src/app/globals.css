@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+@layer base {
+  body {
+    @apply bg-white dark:bg-gray-950 text-gray-900 dark:text-white;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+
+  /* Smooth transition for all elements when switching theme */
+  *, *::before, *::after {
+    transition-property: background-color, border-color, color, fill, stroke, box-shadow;
+    transition-duration: 0.2s;
+    transition-timing-function: ease;
+  }
+
+  /* But don't override animation-specific transitions */
+  .animate-pulse, [class*="animate-"] {
+    transition: none;
+  }
+}
+
+@layer utilities {
+  .line-clamp-3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+}
+
+/* Photo placeholder fallback */
+.photo-placeholder-content {
+  display: none;
+}
+
+img[style*="display: none"] + .photo-placeholder-content,
+.photo-placeholder .photo-placeholder-content {
+  display: flex;
+}
