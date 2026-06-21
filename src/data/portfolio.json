@@ -25,12 +25,34 @@
   },
   "skills": {
     "frontend": ["React.js", "Next.js", "Vue.js", "HTML & CSS", "JavaScript", "TypeScript", "Flutter"],
-    "backend": ["Node.js", "Express.js", "Hapi.js", "Nest.js", "PHP", "Laravel", "Python", "Java & Kotlin"],
-    "database": ["MySQL", "PostgreSQL", "MongoDB"],
-    "cloud": ["Amazon Web Services (AWS)", "Google Cloud Platform (GCP)", "Firebase"],
+    "backend": ["Node.js", "Express.js", "Hapi.js", "Nest.js", "PHP", "Laravel", "Python", "Java & Kotlin", "Golang"],
+    "database": ["MySQL", "PostgreSQL", "MongoDB", "Redis", "SQLite", "Supabase"],
+    "cloud": ["Amazon Web Services (AWS)", "Google Cloud Platform (GCP)", "Firebase", "Github Copilot", "Antigravity", "Claude Code"],
     "tools": ["Git & GitHub", "REST API", "WhatsApp API", "Payment Gateway Integration"]
   },
   "experience": [
+    {
+      "company": "PT GARUDA TRANSPORTASI NUSANTARA",
+      "location": "Jakarta, Indonesia",
+      "role": {
+        "id": "Full Stack Developer",
+        "en": "Full Stack Developer"
+      },
+      "period": "September 2025 – Present",
+      "current": true,
+      "description": {
+        "id": [
+          "Mengembangkan dan memelihara aplikasi web dan mobile untuk platform transportasi, termasuk integrasi API pihak ketiga untuk pembayaran dan pelacakan.",
+          "Berkolaborasi dengan tim lintas fungsi untuk merancang dan mengimplementasikan fitur baru yang meningkatkan pengalaman pengguna dan efisiensi operasional.",
+          "Mengoptimalkan performa sistem dan memastikan skalabilitas aplikasi untuk mendukung pertumbuhan pengguna yang cepat."
+        ],
+        "en": [
+          "Developed and maintained web and mobile applications for the transportation platform, including third-party API integrations for payments and tracking.",
+          "Collaborated with cross-functional teams to design and implement new features that enhance user experience and operational efficiency.",
+          "Optimized system performance and ensured application scalability to support rapid user growth."
+        ]
+      }
+    },
     {
       "company": "CV APP SOLUTIVE",
       "location": "Bandung, Indonesia",
@@ -39,7 +61,7 @@
         "en": "Back End Developer"
       },
       "period": "September 2024 – December 2025",
-      "current": true,
+      "current": false,
       "description": {
         "id": [
           "Mengoptimalkan dan memelihara beberapa API yang sudah ada untuk meningkatkan performa dan stabilitas.",
@@ -94,8 +116,30 @@
       }
     },
     {
+      "company": "PT ISTPRO INTI NUSA",
+      "location": "Jakarta, Indonesia",
+      "role": {
+        "id": "Full Stack Developer",
+        "en": "Full Stack Developer"
+      },
+      "period": "July 2023 – December 2023",
+      "current": false,
+      "description": {
+        "id": [
+          "Mengembangkan dan memelihara aplikasi web untuk platform asuransi online, termasuk integrasi API pihak ketiga untuk pembayaran dan manajemen polis.",
+          "Berkolaborasi dengan tim lintas fungsi untuk merancang dan mengimplementasikan fitur baru yang meningkatkan pengalaman pengguna dan efisiensi operasional.",
+          "Mengoptimalkan performa sistem dan memastikan skalabilitas aplikasi untuk mendukung pertumbuhan pengguna yang cepat."
+        ],
+        "en": [
+          "Developed and maintained web applications for an online insurance platform, including third-party API integrations for payments and policy management.",
+          "Collaborated with cross-functional teams to design and implement new features that enhance user experience and operational efficiency.",
+          "Optimized system performance and ensured application scalability to support rapid user growth."
+        ]
+      }
+    },
+    {
       "company": "PT ELnCo CONSULTING",
-      "location": "Cirebon, Indonesia",
+      "location": "Jakarta, Indonesia",
       "role": {
         "id": "Back End Developer",
         "en": "Back End Developer"
