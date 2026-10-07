@@ -72,9 +72,14 @@ Semua data bisa diubah langsung dari file **`src/data/portfolio.json`**:
   "tech": ["React.js", "Node.js"],
   "github": "https://github.com/...",
   "demo": "https://...",
+  "image": "https://... (opsional)",
   "featured": true
 }
 ```
+
+Preview gambar proyek akan dibuat otomatis dari URL `demo` (atau `github` jika demo tidak tersedia). Isi properti `image` dengan URL gambar sendiri untuk mengganti preview otomatis.
+
+Untuk sertifikat, tambahkan properti `"image": "/images/nama-sertifikat.jpg"` atau URL gambar ke data sertifikat agar thumbnail ilustratif diganti dengan gambar sertifikat asli. Letakkan gambar lokal di `public/images/`.
 
 ### Tambah Pengalaman Kerja
 Tambahkan object baru di array `experience` dengan format yang sama.
